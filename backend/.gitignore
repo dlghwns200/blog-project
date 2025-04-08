@@ -25,7 +25,7 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-application-secret.yml
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -35,3 +35,6 @@ application-secret.yml
 
 ### VS Code ###
 .vscode/
+
+### Custom ###
+application-secret.yml
